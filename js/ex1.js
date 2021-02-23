@@ -18,7 +18,7 @@ class Square {
     };
 
     describe() {
-        return `Square with side ${this.side} has perimeter of ${this.perimeter()}, area of ${this.area()}, and diagonal ${this.diagonal()}`
+        return `Square with side ${this.side} has perimeter of ${this.perimeter()}, area of ${this.area()}, and diagonal of ${this.diagonal()}`
     };
 
 };
